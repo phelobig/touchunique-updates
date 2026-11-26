@@ -1,9 +1,9 @@
 {
-  "version": "3.1.5",
-  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.1.5.zip",
-  "sha256": "b5c895496b083947d9e715603443979bd4cfe5f54e0b571cf29aea52ac454d78",
-  "size": 1830652,
-  "publishedAt": "2026-11-26T14:32:40+00:00",
-  "notes": "Bandeau de mise à jour visible dès l’ouverture, confirmation d’installation, assistant administrateur exact et icône Outils.",
-  "files": 49
+  "version": "3.1.6",
+  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.1.6.zip",
+  "sha256": "876ae92cbc84eb926ee6280a38342888d359f739bca6eac6d2e1de7cf774bbef",
+  "size": 1832965,
+  "publishedAt": "2026-11-26T15:29:42+00:00",
+  "notes": "Compteur de visiteurs du site synchronisé dans l’application, suivi continu même hors ligne, serveur sécurisé prérempli et messagerie opérationnelle.",
+  "files": 50
 }
