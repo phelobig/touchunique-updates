@@ -1,9 +1,9 @@
 {
-  "version": "3.1.8",
-  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.1.8.zip",
-  "sha256": "00d72a8dd103542117a90380044e156c515727be15522123733cd57dad0fdf46",
-  "size": 1834999,
-  "publishedAt": "2026-11-26T17:07:48+00:00",
+  "version": "3.1.9",
+  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.1.9.zip",
+  "sha256": "3b0fd4ac9dee6e8394336bb9aead44c985ef0e03703b03481fe84c32ee42d3fe",
+  "size": 1835927,
+  "publishedAt": "2026-11-26T17:32:51+00:00",
   "notes": "Correction de la barre supérieure : réseau et visiteurs ne masquent plus le titre, disposition compacte sur mobile. Compteur de visiteurs synchronisé et messagerie opérationnelle.",
   "files": 50
 }
