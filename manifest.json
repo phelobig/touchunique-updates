@@ -1,9 +1,9 @@
 {
-  "version": "3.1.6",
-  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.1.6.zip",
-  "sha256": "876ae92cbc84eb926ee6280a38342888d359f739bca6eac6d2e1de7cf774bbef",
-  "size": 1832965,
-  "publishedAt": "2026-11-26T15:29:42+00:00",
-  "notes": "Compteur de visiteurs du site synchronisé dans l’application, suivi continu même hors ligne, serveur sécurisé prérempli et messagerie opérationnelle.",
+  "version": "3.1.7",
+  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.1.7.zip",
+  "sha256": "7933bd772f322ae574c5c90712bf3cda783f7d3a9d06080ba18443b2c0312f99",
+  "size": 1834782,
+  "publishedAt": "2026-11-26T16:36:34+00:00",
+  "notes": "Correction de la barre supérieure : réseau et visiteurs ne masquent plus le titre, disposition compacte sur mobile. Compteur de visiteurs synchronisé et messagerie opérationnelle.",
   "files": 50
 }
