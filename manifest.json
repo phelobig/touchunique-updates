@@ -1,9 +1,9 @@
 {
-  "version": "3.1.9",
-  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.1.9.zip",
-  "sha256": "3b0fd4ac9dee6e8394336bb9aead44c985ef0e03703b03481fe84c32ee42d3fe",
-  "size": 1835927,
-  "publishedAt": "2026-11-26T17:32:51+00:00",
-  "notes": "Correction de la barre supérieure : réseau et visiteurs ne masquent plus le titre, disposition compacte sur mobile. Compteur de visiteurs synchronisé et messagerie opérationnelle.",
+  "version": "3.2.0",
+  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.2.0.zip",
+  "sha256": "4b1408c4ccf0aa295512d064bd1b265a9870bc70ad60d8f5630969786a634a7b",
+  "size": 1838238,
+  "publishedAt": "2026-11-26T20:00:27+00:00",
+  "notes": "IA connectée à Internet sans clé, recherche web intégrée avec sources, formulaire Contact avec pièce jointe envoyé au serveur, section Visiteurs protégée par clé et ouverture de liens Internet depuis l’application.",
   "files": 50
 }
