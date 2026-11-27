@@ -1,9 +1,9 @@
 {
-  "version": "3.2.0",
-  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.2.0.zip",
-  "sha256": "4b1408c4ccf0aa295512d064bd1b265a9870bc70ad60d8f5630969786a634a7b",
-  "size": 1838238,
-  "publishedAt": "2026-11-26T20:00:27+00:00",
-  "notes": "IA connectée à Internet sans clé, recherche web intégrée avec sources, formulaire Contact avec pièce jointe envoyé au serveur, section Visiteurs protégée par clé et ouverture de liens Internet depuis l’application.",
-  "files": 50
+  "version": "3.3.0",
+  "url": "https://phelobig.github.io/touchunique-updates/touchunique-app-3.3.0.zip",
+  "sha256": "2845419ca98cfd076d37a4fe06514ab1b531c5878877c457859b26942573b197",
+  "size": 1844887,
+  "publishedAt": "2026-11-27T11:00:05+00:00",
+  "notes": "IA gratuite, illimitée et connectée à Internet ; base de langue français/anglais avec détection automatique ; suppression du mode démonstration et des essais ; messagerie avec fichiers, visiteurs protégés et ouverture de liens Internet.",
+  "files": 51
 }
